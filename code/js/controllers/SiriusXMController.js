@@ -10,7 +10,7 @@
     playPrev: "button[aria-label=\"Skip back\"]",
     mute: "button[aria-label=\"Mute\"]",
 
-    // playState: ".play-pause-btn__img[alt='Pause']",
+    playState: "button[aria-label=\"Pause\"]",
     song: "div[class*=\"_title\"] > div > span",
     artist: "div[class*=\"_artist\"] > div > span",
     art: "div[class*=\"_imageContainer\"] svg"
